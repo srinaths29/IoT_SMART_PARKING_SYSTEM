@@ -106,8 +106,6 @@ The ESP8266 acts as the central controller, processing sensor inputs, updating t
 
 ![Prototype](images/prototype_1.jpg)
 
-![Prototype](images/prototype_2.jpg)
-
 ---
 
 ### OLED Display
