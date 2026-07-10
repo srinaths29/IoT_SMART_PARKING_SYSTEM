@@ -54,13 +54,13 @@ The ESP8266 acts as the central controller, processing sensor inputs, updating t
 
 ## System Architecture
 
-![System Architecture](images/block_diagram.png)
+![System Architecture](block_diagram.png)
 
 ---
 
 ## Circuit Schematic
 
-![Circuit Schematic](images/circuit_schematic.png)
+![Circuit Schematic](circuit_schematic.png)
 
 ---
 
@@ -104,13 +104,13 @@ The ESP8266 acts as the central controller, processing sensor inputs, updating t
 
 ### Hardware Prototype
 
-![Prototype](images/prototype_1.jpg)
+![Prototype](prototype.png)
 
 ---
 
 ### OLED Display
 
-![OLED Output](images/oled_display.jpg)
+![OLED Output](oled_display.png)
 
 ---
 
