@@ -110,13 +110,13 @@ The ESP8266 acts as the central controller, processing sensor inputs, updating t
 
 ### OLED Display
 
-![OLED Output](oled_display.png)
+![OLED Output](oled_output.png)
 
 ---
 
 ### Web Interface
 
-![Web Interface](images/web_interface.png)
+![Web Interface](web_interface.png)
 
 The embedded web server displays:
 
